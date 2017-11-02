@@ -16,7 +16,7 @@
 title: Chagrin Falls Blossom Time
 email: support@chagrinfallsblossomtime.com
 description: > # this means to ignore newlines until "baseurl:"
-  Schdule of events for the Chagrin Falls Blossom Time parade and festival.
+  Schedule of events for the Chagrin Falls Blossom Time parade and festival.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chagrinfallsblossomtime.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
